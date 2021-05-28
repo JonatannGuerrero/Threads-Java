@@ -33,9 +33,11 @@ Para el desarrollo del problema se calculó la probabilidad con un random que de
 
 ![](https://i.imgur.com/XFLMhBo.png)
 
-En este caso el animal ganador fue la liebre, observemos que dio un gran salto y de estar en la casilla 61 dio 9 pasos a la derecha (20%) la cual la llevo a la casilla 70 y por ende gano la carrera.
+En este caso el animal ganador fue la Liebre, observemos que dio un gran salto y de estar en la casilla 61 dio 9 pasos a la derecha (20%) la cual la llevo a la casilla 70 y por ende gano la carrera.
 
-> Como tip, para saber cual es la probabilidad de que la Liebre o la Tortuga gane la carrera podriamos modificar el codigo para usar la ley de los grandes numeros y determinar esa probabilidad. Tengo un programa en el cual utilizo esta ley por si quieres verlo [aqui.](https://github.com/JonatannGuerrero/Robabilidad-Rusia2018)
+**Importante**
+
+Como información adicional, para saber cuál es la probabilidad de que la Liebre o la Tortuga gane la carrera podríamos modificar el código para usar la ley de los grandes números y determinar esa probabilidad. Tengo un programa en el cual utilizo esta ley por si quieres verlo [aqui.](https://github.com/JonatannGuerrero/Robabilidad-Rusia2018)
 
 # 🔧 Built With
 - NetBeans - Java 
