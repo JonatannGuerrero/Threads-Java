@@ -4,7 +4,7 @@ Programa desarrollado con NetBeans. Bajo el lenguaje Java, este da un ejemplo de
 
 > Para resumir que es un Thread básicamente es código que se puede ejecutar paralelamente ósea al tiempo, ahí dos formas de crearlo, agregándole a la clase *extends Thread* o *Implements Runnable* este ejemplo está hecho con *Implements Runnable.*
 
-Para ejecutar el código de este repositorio, cuando cree el proyecto en Java recuerde cambiar el nombre del *packege* que en mi caso lo llame *HilosConcurrencia,* que en los tres archivos se encuentra en la línea 6 en su caso llámelo como guste pero **no lo olvide.**
+Para ejecutar el código de este repositorio recuerde que cuando cree el proyecto en Java debe cambiar el nombre del *packege* que en mi caso lo llame *HilosConcurrencia,* que en los tres archivos se encuentra en la línea 6, en su caso llámelo como guste pero **no lo olvide.**
 
  **Jugando con Hilos**
 
