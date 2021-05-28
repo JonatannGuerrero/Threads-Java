@@ -29,19 +29,13 @@ Para hacerlo más interesante la carrera será cuesta arriba por una pista resba
 
 Para el desarrollo del problema se calculó la probabilidad con un random que determina que acción realiza cada animal, la pista tiene 70 casillas, la casilla 70 es de llegada por ende el primer animal que llegue será el ganador.
 
-**Foto de ejecucion**
+**Foto de ejecución**
 
-![Imagen](https://i.imgur.com/XFLMhBo.png "Imagen")
+![](https://i.imgur.com/XFLMhBo.png)
 
-En este caso el animal ganador fue la liebre 
+En este caso el animal ganador fue la liebre, observemos que dio un gran salto y de estar en la casilla 61 dio 9 pasos a la derecha (20%) la cual la llevo a la casilla 70 y por ende gano la carrera.
 
-
-ley de los grandes numeros
-
-
-
-
-
+> Como tip, para saber cual es la probabilidad de que la Liebre o la Tortuga gane la carrera podriamos modificar el codigo para usar la ley de los grandes numeros y determinar esa probabilidad. Tengo un programa en el cual utilizo esta ley por si quieres verlo [aqui.](https://github.com/JonatannGuerrero/Robabilidad-Rusia2018)
 
 # 🔧 Built With
 - NetBeans - Java 
