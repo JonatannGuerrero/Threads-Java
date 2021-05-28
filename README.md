@@ -2,7 +2,7 @@
 
 Programa desarrollado con NetBeans. Bajo el lenguaje Java, este da un ejemplo de uso de los Threads (Hilos o Multitarea) en Java. Simulando la fábula que cuenta la carrera entre la Liebre y Tortuga se usará los Threads para desarrollar el código. ¿Quién Ganará?
 
-> Para remusumir que es un Thread basicamente es codigo que se puede ejecutar paralelamente osea al tiempo, ahi dos formas de crearlo agregandole a la clase *extends Thread* o *Implements Runnable* este ejemplo esta hecho con *Implements Runnable.*
+> Para remusumir que es un Thread basicamente es codigo que se puede ejecutar paralelamente osea al tiempo, ahi dos formas de crearlo, agregandole a la clase *extends Thread* o *Implements Runnable* este ejemplo esta hecho con *Implements Runnable.*
 
 Para ejecutar el código de este repositorio, recuerde cambiar el nombre del *packege* que en mi caso lo llame *HilosConcurrencia,* que en los tres archivos se encuentra en la línea 6 en su caso llámelo como guste pero **no lo olvide.**
 
